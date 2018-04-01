@@ -1,11 +1,20 @@
 <?php
 
+/*
+ * This file is part of PHP Search Engine.
+ *
+ * (c) masterwto <masterwto@163.com>
+ *
+ * This source file is subject to the MIT license that is bundled
+ * with this source code in the file LICENSE.
+ */
+
 namespace App\Jobs;
 
 use Illuminate\Bus\Queueable;
-use Illuminate\Queue\SerializesModels;
-use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Contracts\Queue\ShouldQueue;
+use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Queue\SerializesModels;
 
 abstract class Job implements ShouldQueue
 {

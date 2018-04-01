@@ -21,3 +21,6 @@ _ide_helper_*.php
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+# php-cs-fixer
+.php_cs.cache
