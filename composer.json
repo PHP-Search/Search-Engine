@@ -10,7 +10,8 @@
         "vlucas/phpdotenv": "~2.2",
         "barryvdh/laravel-ide-helper": "^2.4",
         "laravel/dusk": "^3.0",
-        "friendsofphp/php-cs-fixer": "^2.11"
+        "friendsofphp/php-cs-fixer": "^2.11",
+        "doctrine/dbal": "^2.6"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

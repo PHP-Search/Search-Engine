@@ -16,5 +16,8 @@ storage/*.key
 Homestead.yaml
 Homestead.json
 
+# Laravel-IDE-Helper
+_ide_helper_*.php
+
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
